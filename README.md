@@ -26,3 +26,5 @@ Remove
 Comparisions
 
 Logicals
+
+Functions
